@@ -1,4 +1,4 @@
-## Go Ethereum (in progress) [BTCsc]
+## Go Ethereum (in progress) [BTCschain]
 
 Golang execution layer implementation of the Ethereum protocol.
 
